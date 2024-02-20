@@ -32,9 +32,7 @@ public class Member {
         this.lastName = lastName;
     }
 
-    public String getEmailAddress() {
-        return emailAddress;
-    }
+    public String getEmailAddress() {return emailAddress;}
 
     public void setEmailAddress(String emailAddress) {
         this.emailAddress = emailAddress;
